@@ -1,3 +1,0 @@
-Pseudo-terminal will not be allocated because stdin is not a terminal.
-kex_exchange_identification: read: Connection timed out
-banner exchange: Connection to 5.255.123.12 port 22: Connection timed out
